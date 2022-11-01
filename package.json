@@ -1,0 +1,22 @@
+{
+  "name": "three_try",
+  "version": "1.0.0",
+  "description": "the learing record of threejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "start": "parcel src/index.html --dist-dir dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@parcel/config-default": "^2.7.0",
+    "@parcel/core": "^2.7.0",
+    "dat.gui": "^0.7.9",
+    "three": "^0.146.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}

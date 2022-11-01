@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+node_modules
+dist
+.parcel-cache
+.env
+.depVersion
+.npmrc
+demo.env
+dist.zip
