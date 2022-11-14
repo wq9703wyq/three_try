@@ -13,6 +13,7 @@
   "dependencies": {
     "@parcel/config-default": "^2.7.0",
     "@parcel/core": "^2.7.0",
+    "cannon-es": "^0.20.0",
     "dat.gui": "^0.7.9",
     "three": "^0.146.0"
   },
